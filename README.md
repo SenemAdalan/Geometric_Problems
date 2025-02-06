@@ -82,6 +82,3 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 
 ## 🛠️ Kullanım
 Proje, çeşitli geometrik şekiller ve doğru parçaları ile ilgili işlemleri gerçekleştiren sınıfları içerir. Her sınıfın metotlarını kullanarak ilgili işlemleri gerçekleştirebilirsiniz.
-
-## 📄 Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
