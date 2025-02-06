@@ -3,6 +3,9 @@
 Bu proje çeşitli geometrik şekiller ve doğru parçaları ile ilgili işlemleri gerçekleştiren C++ sınıflarını içerir. Proje, Nokta, DoğruParçası, Daire ve Üçgen sınıflarını ve bu sınıfların çeşitli özelliklerini ve metotlarını içerir.
 
 ## 📋 Proje Açıklaması
+- **Yapılış Tarihi:** 31 Aralık 2023  
+- **Son Güncelleme:** 6 Şubat 2025
+  
 Bu proje, aşağıdaki geometrik şekilleri temsil eden sınıfları içerir:
 
 **Nokta Sınıfı:** Bir noktanın x ve y koordinatlarını tutar ve çeşitli yapıcılar, get/set metotları ve yardımcı metotlar sağlar.
