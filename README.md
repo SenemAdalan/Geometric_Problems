@@ -1,4 +1,4 @@
-# Geometric_Problems
+# Geometric Problems
 
 Bu proje çeşitli geometrik şekiller ve doğru parçaları ile ilgili işlemleri gerçekleştiren C++ sınıflarını içerir. Proje, Nokta, DoğruParçası, Daire ve Üçgen sınıflarını ve bu sınıfların çeşitli özelliklerini ve metotlarını içerir.
 
